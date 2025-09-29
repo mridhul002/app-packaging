@@ -1,0 +1,8 @@
+Package: calculator-app
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-flask
+Maintainer: Mridhul 
+Description: A simple calculator web app built with Flask
